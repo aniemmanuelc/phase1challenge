@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phase1Challenge</string>
+    <string name="text_welcome">Welcome to ALC 4.0</string>
+    <string name="button_about_alc">ABOUT ALC</string>
+    <string name="button_profile">MY PROFILE</string>
+    <string name="profile_image">Profile image</string>
+    <string name="text_slack">Slack Username: @EmmanuelAni</string>
+    <string name="text_phone">Phone Number: 2349078013128</string>
+    <string name="text_email">Email: aniemmanuelc@gmail.com</string>
+    <string name="text_country">Country: Nigeria</string>
+    <string name="text_track">Track: Android</string>
+    <string name="text_name">Emmanuel Ani</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_label">About ALC</string>
+    <string name="main_label">ALC 4 Phase 1</string>
+    <string name="profile_label">My Profile</string>
+</resources>
